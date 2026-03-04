@@ -24,7 +24,7 @@ More of my public work can be found on my **Sherlock Watson profile**: https://a
 - **Total earnings:** **$424.00**
 - **Payouts:** **6x**
 - **Placements:** **1x 1st place**, **2x Top 10**, **3x Top 25**
-- **Severity count (public findings):** **4 High**, **5 Medium** :contentReference[oaicite:1]{index=1}
+- **Severity count (public findings):** **4 High**, **5 Medium** 
 
 ---
 
@@ -38,7 +38,7 @@ More of my public work can be found on my **Sherlock Watson profile**: https://a
 
 Links:
 - vVv Launchpad finding: https://github.com (from Sherlock entry)
-- Profile: https://audits.sherlock.xyz/watson/Le_Rems :contentReference[oaicite:2]{index=2}
+- Profile: https://audits.sherlock.xyz/watson/Le_Rems 
 
 ---
 
@@ -52,12 +52,8 @@ Links:
 | Code4rena | Lambo.win | Dec 2024 | 4 findings (public) |
 | Code4rena | Concrete | Nov 2024 | participation |
 
-(Everything above is sourced from your public Sherlock page.) :contentReference[oaicite:3]{index=3}
-
 ---
 
 ## Contact
 
-- X / Twitter: <your link>
-- Email: <your email>
-- Telegram: <your handle>
+- X / Twitter: <[your link](https://x.com/0xLe_Rems)>
