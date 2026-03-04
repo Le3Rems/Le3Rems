@@ -56,4 +56,4 @@ Links:
 
 ## Contact
 
-- X / Twitter: <[your link](https://x.com/0xLe_Rems)>
+- X / Twitter: <[Le_Rems](https://x.com/0xLe_Rems)>
