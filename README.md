@@ -13,7 +13,7 @@ More of my public work can be found on my **Sherlock Watson profile**: https://a
 ## Languages
 
 - **Solidity**
-- **Rust (basics / intermediate)**
+- **Rust**
 - **Cairo**
 
 ---
@@ -50,7 +50,6 @@ Links:
 | Immunefi | Audit Comp \| Firelight | Nov 2025 | 2 findings (not public) |
 | Immunefi | Audit Comp \| Yeet | Mar 2025 | 1 finding (not public) |
 | Code4rena | Lambo.win | Dec 2024 | 4 findings (public) |
-| Code4rena | Concrete | Nov 2024 | participation |
 
 ---
 
